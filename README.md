@@ -10,4 +10,4 @@
 - user can register yourself by adding role admin or user
 - user can login after registration 
 ## Support
-<p>For support, email ck4001252@gmail.com </p>
+<p>For support, <a>ck4001252@gmail.com</a>email  </p>
