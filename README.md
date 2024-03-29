@@ -6,3 +6,8 @@
 - Node Js
 - Express Js
 - MongoDb (for database)
+## Working
+- user can register yourself by adding role admin or user
+- user can login after registration 
+## Support
+<p>For support, email ck4001252@gmail.com </p>
