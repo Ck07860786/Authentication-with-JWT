@@ -18,13 +18,11 @@ app.use(bodyParser.urlencoded({extended:true}))
 app.use(express.json())
 app.use(morgan('dev'))
 
+//rest api
 app.use('/api/v1/auth',authRoute)
 
 
-//rest api's
-app.get('/',(req,res)=>{
-    res.send('<h1>Hello user welcome to ums project </h1>')
-})
+
 
 
 //listen
